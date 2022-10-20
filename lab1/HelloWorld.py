@@ -1,3 +1,1 @@
-print("ET0735 - DevOps\n")
-print("Commited once\n")
-print("Git merging")
+print("ET0735 - DevOps for AIoT")
